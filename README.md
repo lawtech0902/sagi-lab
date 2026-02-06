@@ -1,6 +1,6 @@
-# Sagi Lab - AI-Powered Automated Malware Triage
+# Sagi Lab - AI-Powered Automated Alert Triage
 
-**Sagi Lab** is an intelligent security operations platform designed to automate the triage, investigation, and analysis of security alerts. By combining the reasoning capabilities of Large Language Models (LLMs) with authoritative Threat Intelligence (VirusTotal), Sagi Lab reduces alert fatigue and provides actionable investigations in seconds.
+**Sagi Lab** is an intelligent security alert triage platform designed to automate the triage, investigation, and analysis of security alerts. By combining the reasoning capabilities of Large Language Models (LLMs) with authoritative Threat Intelligence (VirusTotal), Sagi Lab reduces alert fatigue and provides actionable investigations in seconds.
 
 ## 🚀 Key Features
 
